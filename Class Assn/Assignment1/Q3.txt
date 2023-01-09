@@ -1,0 +1,5 @@
+With swedish wheels, our capability to move is the same for the most part. We will have to deal with four wheels howevever, front and rear, as well as left and right. If both left wheels and both right wheels were controlled by the same input as the skid steers leftVelocity and rightVelocity, it functions the same.
+
+The difference is that we now gain the ability to strafe left and right on the robot.
+
+The main problems we would encounter on a two track skid steer device compared to a four wheeled swedish design would be the control over the velocity of all four wheels, without accounting for this, two of the wheels on a swedish design would not spin causing drag and slowing the robot down, nor would we be able to turn the robot well if we were even capable of turning at all.
